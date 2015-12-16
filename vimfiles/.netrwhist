@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kimuras/.vim'
+let g:netrw_dirhist_2='/opt/git/unit/kimuras/php_include/src/Application/MultilangBundle'
+let g:netrw_dirhist_3='/web/homes/unit/kimuras/php_include/src/Bundle/InquireBundle/Resources/views/Bukken/parts/realtor/fields'
+let g:netrw_dirhist_4='/web/homes/unit/kimuras/.git'
+let g:netrw_dirhist_5='/home/kimuras/.vim'
+let g:netrw_dirhist_6='/tmp'
+let g:netrw_dirhist_7='/web/homes/unit/kimuras/php_include/src/Search/PcBundle/Services'
+let g:netrw_dirhist_8='/home/kimuras/.vim'
