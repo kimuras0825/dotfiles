@@ -1,4 +1,4 @@
-alias ls 'ls -la'
+alias ls 'ls -lah'
 
 setenv HOME /home/kimuras
 setenv ORACLE_BASE /opt/oracle
